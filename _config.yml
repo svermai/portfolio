@@ -1,10 +1,6 @@
 title: Shubham Verma
 logo: /assets/img/headshot_circle.png
-remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@4.2.0
-description: >
-description: >
-  Bioinformatics Data Scientist | NGS Pipelines | Nextflow | Infectious disease & Microbiome  
-  [Google Scholar](https://scholar.google.ae/citations?user=JvWXI4wAAAAJ&hl=en)
+theme: jekyll-theme-minimal
 show_downloads: false
-google_analytics:
+
 
