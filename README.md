@@ -3,6 +3,7 @@
 🚀 Welcome to my portfolio showcasing bioinformatics projects, pipelines, and tools I’ve developed across clinical and research settings.
 
 🔗 **Topmate**: [topmate.io/shubham_verma96](https://topmate.io/shubham_verma96)
+
 🔗 **1:1 Mentorship**: [topmate.io/shubham_verma96/page/NQ0wQCWFoh](https://topmate.io/shubham_verma96/page/NQ0wQCWFoh)
 
 ---
@@ -17,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Bioinformatics Scientist** with over 4 years of experience in computational genomics, NGS pipeline development, and translational bioinformatics. I specialize in designing and automating workflows for large-scale genomics and clinical datasets using **Nextflow**, **Docker**, and **AWS**.
+I'm a **Bioinformatics Scientist** with over 5 years of experience in computational genomics, NGS pipeline development, and translational bioinformatics. I specialize in designing and automating workflows for large-scale genomics and clinical datasets using **Nextflow**, **Docker**, and **AWS**.
 
 ---
 
