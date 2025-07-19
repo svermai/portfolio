@@ -2,7 +2,8 @@
 
 🚀 Welcome to my portfolio showcasing bioinformatics projects, pipelines, and tools I’ve developed across clinical and research settings.
 
-🔗 **Live Portfolio**: [svermai.github.io/portfolio](https://svermai.github.io/portfolio/)
+🔗 **Topmate**: [topmate.io/shubham_verma96](https://topmate.io/shubham_verma96)
+🔗 **1:1 Mentorship**: [topmate.io/shubham_verma96/page/NQ0wQCWFoh](https://topmate.io/shubham_verma96/page/NQ0wQCWFoh)
 
 ---
 
