@@ -8,14 +8,6 @@
 
 ---
 
-## 🧬 Key Areas
-
-- **NGS**: WGS, RNASeq, Single-cell, Metagenomics  
-- **Pipeline Automation**: Nextflow, Docker, AWS  
-- **Statistical Genomics & Machine Learning**
-
----
-
 ## 👨‍💻 About Me
 
 With 5+ years of experience in computational genomics, I specialize in developing scalable bioinformatics pipelines for **large-scale NGS data analysis**, translational research, and **public health genomics**. My work integrates **high-throughput sequencing**, **cloud computing**, and **machine learning** to advance infectious disease surveillance, antimicrobial resistance (AMR) detection, and microbiome analytics.
