@@ -18,28 +18,33 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Bioinformatics Scientist** with over 5 years of experience in computational genomics, NGS pipeline development, and translational bioinformatics. I specialize in designing and automating workflows for large-scale genomics and clinical datasets using **Nextflow**, **Docker**, and **AWS**.
+With 5+ years of experience in computational genomics, I specialize in developing scalable bioinformatics pipelines for **large-scale NGS data analysis**, translational research, and **public health genomics**. My work integrates **high-throughput sequencing**, **cloud computing**, and **machine learning** to advance infectious disease surveillance, antimicrobial resistance (AMR) detection, and microbiome analytics.
 
 ---
 
 ## 🔬 Current Focus Areas
 
 - **Infectious Disease Genomics** – Whole genome sequencing (WGS) analysis for outbreak tracking and pathogen surveillance  
-- **Antimicrobial Resistance (AMR) Surveillance** – Detecting and characterizing resistance genes from clinical isolates  
-- **Metagenomics** – Environmental and clinical microbiome profiling using 16S and shotgun sequencing  
-- **Microbiome Analytics** – Statistical and machine learning approaches to uncover host–microbiome interactions
+- **Pathogen Genomics**: Bacterial whole-genome sequencing (WGS) for outbreak tracking, phylogenomics, and AMR gene prediction (CARD, ResFinder, AMRFinder).
+- **Metagenomics**: Taxonomic and functional profiling of microbiomes (16S rRNA, shotgun sequencing) using Kraken2, MetaPhlAn, HUMAnN3, and MetaWRAP.
+- **Microbiome Analytics**: Machine learning-driven insights into host–microbiome interactions.
+- **Genome Assembly & Annotation**: Hybrid (short + long-read) assembly with Unicycler, Flye, SPAdes, and annotation via Prokka, Bakta.
 
-I'm currently based in **Dubai**, working at the intersection of **bioinformatics**, **precision medicine**, and **public health genomics**.
+Currently based in **Dubai**, I work at the intersection of **bioinformatics**, **precision medicine**, and **public health**, leveraging computational tools to enhance pathogen surveillance and genomic medicine
 
 ---
 
 ## 🛠️ Technical Skills
 
 - **Languages**: Python, R, Bash, SQL  
-- **NGS Tools**: FastQC, BWA, STAR, GATK, DESeq2, Qiime2, Seurat, Samtools  
-- **Pipelines**: Nextflow, Docker, Snakemake  
+- **NGS & Omics Tools**:
+    - Bacterial Genomics: Unicycler, Flye, Canu, Shovill, QUAST, ABRicate, Roary, Prokka, Snippy.
+    - Metagenomics: Kraken2, MetaPhlAn, MEGAHIT, MetaWRAP, DESeq2, LEfSe, Qiime2.
+    - Variant Analysis: GATK, BCFtools, Snippy, bcftools.
+
+- **Pipeline Development**: Nextflow, Docker, Snakemake  
 - **Cloud & Compute**: AWS (Batch, S3, EC2), HPC, Git  
-- **Machine Learning**: XGBoost, scikit-learn, Random Forest (applied to 16S and genomic data)  
+- **ML/AI for Genomics**: XGBoost, scikit-learn, Random Forest (applied to 16S and genomic data)  
 - **Visualization**: Seaborn, Plotly, ggplot2, RMarkdown  
 
 ---
